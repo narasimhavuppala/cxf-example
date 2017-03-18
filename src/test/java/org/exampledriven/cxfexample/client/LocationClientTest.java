@@ -17,7 +17,7 @@ public class LocationClientTest {
 		String city = "Budapest";
 		
 //		LocationData locationData = new LocationClient().getLocation(city);
-//		logger.debug("", locationData);
+//		logger.dexxbug("", locationData);
 //		
 //		assertEquals(city, locationData.getLocation());
 		
